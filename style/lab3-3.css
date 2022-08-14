@@ -1,0 +1,12 @@
+/*Lab3.3*/
+.yellow-bg{
+    background: yellow;
+    text-decoration: underline;
+}
+.gray-bg{
+    background: gray;
+}
+#year{
+    color: red;
+    font-style: oblique;
+}

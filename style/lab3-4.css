@@ -1,0 +1,25 @@
+/*Lab3.4*/
+.frame{
+    border: solid;
+    border-width: 0.5px;
+    width: 1.85rem;
+    padding: 0.1rem;
+    
+
+}
+.box{
+    border:solid;
+    border-width: 0.5px;
+    
+}
+.box:hover{
+    background: aqua;
+}
+.box2{
+    border:solid; 
+    padding-right: 1rem;
+    border-width: 0.5px;
+}
+.box2:hover{
+    background: aqua;
+}
